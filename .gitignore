@@ -1,6 +1,7 @@
 # generated data - recreated by prepare_data.py
 data/patients_streaming.csv
 data/stream_input/
+data/agg_output/
 
 # spark checkpoint state
 checkpoint/
